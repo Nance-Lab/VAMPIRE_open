@@ -1,0 +1,3 @@
+set ID,condition,set location,tag,note
+1,$CONDITION NAME HERE$,$FILE LOCATION HERE$,c1,
+2,$CONDITION NAME HERE$,$FILE LOCATION HERE$,c1,
